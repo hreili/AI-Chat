@@ -6,8 +6,8 @@
  * Version: 7.6
  * Author: Aivoma Innovations Ltd
  * Author URI: https://aivoma.com
- * License: Proprietary
- * License URI: https://aivoma.com/aivoma-innovations-ltd-plugin-license-agreement/
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Support URI: https://aivoma.com/contact/
  * Text Domain: aivoma-ai-chat
  * Domain Path: /languages
